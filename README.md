@@ -118,9 +118,9 @@ E-commerce de delivery com carrinho de compras, catálogo de restaurantes e flux
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=sminato27&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=devjosemario&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sminato27&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devjosemario&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 
 </p>
 
