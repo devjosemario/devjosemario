@@ -152,6 +152,15 @@ Clone da interface do Disney+ construído com HTML e CSS, com fluxo de build aut
 
 <td width="50%" valign="top">
 
+🛒 **[Loja Tech](https://github.com/devjosemario/loja_tech)**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Página de loja virtual de produtos de tecnologia, construída com HTML e CSS puros. Foco em estrutura semântica, estilização e apresentação visual dos produtos.
+
+🔗 [Repositório](https://github.com/devjosemario/loja_tech) &nbsp;|&nbsp; 🚀 [Demo](https://loja-tech-flame.vercel.app)
+
 </td>
 
 </tr>
