@@ -45,6 +45,7 @@ Atuar como **Desenvolvedor Python Backend, Full Stack ou Frontend**, contribuind
 
 <p>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
@@ -80,10 +81,22 @@ Atuar como **Desenvolvedor Python Backend, Full Stack ou Frontend**, contribuind
 
 <br>
 
-<!-- RussoGames — Destaque Principal -->
+<!-- Nino-X — Destaque Principal -->
 <table>
 <tr>
-<td width="60" align="center">🛒</td>
+<td width="100%" valign="top">
+
+## 🤖 [Nino-X](https://github.com/devjosemario/nino-x)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Vosk](https://img.shields.io/badge/Vosk-STT-4B8BBE?style=flat-square)
+
+Assistente pessoal por voz, inspirado no J.A.R.V.I.S., desenvolvido em Python. Escuta uma palavra de ativação, reconhece a fala, processa os comandos com um modelo de linguagem (Groq) e responde com voz sintetizada. Conta com memória persistente entre conversas, controle de tela do computador e integração com o Blender.
+
+🔗 [Repositório](https://github.com/devjosemario/nino-x)
+
+</td>
 </tr>
 </table>
 
@@ -106,8 +119,40 @@ E-commerce de delivery com carrinho de compras, catálogo de restaurantes e flux
 
 </td>
 
+<td width="50%" valign="top">
+
+🐦 **[Twitter Clone](https://github.com/devjosemario/twitter-clone)**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+
+Rede social com cadastro e login, perfil editável, sistema de seguir, feed personalizado, tweets de até 280 caracteres, curtidas e comentários. Backend com API REST completa em Django REST Framework e deploy no PythonAnywhere.
+
+🔗 [Repositório](https://github.com/devjosemario/twitter-clone) &nbsp;|&nbsp; 🚀 [Demo](https://devjosemario.pythonanywhere.com)
+
+</td>
+
 </tr>
 <tr>
+
+<td width="50%" valign="top">
+
+🎬 **[Disney+ Clone](https://github.com/devjosemario/clone_disneyplus)**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
+
+Clone da interface do Disney+ construído com HTML e CSS, com fluxo de build automatizado usando Gulp. Projeto focado em fidelidade visual e organização de front-end.
+
+🔗 [Repositório](https://github.com/devjosemario/clone_disneyplus) &nbsp;|&nbsp; 🚀 [Demo](https://clone-disneyplus-one-kappa.vercel.app)
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
 
 </tr>
 </table>
